@@ -14,7 +14,7 @@ sections:
   templates:
   - documentation-page
 - type: heading
-  label: Settings
+  label: Ajustes
 - type: document
   path: data/settings.json
   label: Menu
