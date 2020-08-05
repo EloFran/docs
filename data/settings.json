@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "Constitución",
+      "topics": [
+        {
+          "title": "Preámbulo",
+          "slug": "preambulo"
+        }
+      ]
+    },
+    {
       "section": "Introducción",
       "topics": [
         {
